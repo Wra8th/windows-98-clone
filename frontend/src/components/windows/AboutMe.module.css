@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    color: #008080;
+}
+
+.Details{
+    display: flex;
+    flex-direction: row;
+}
+
+.Detailsimg img{
+    height: 25vh;
+    border-radius: 50%;
+}

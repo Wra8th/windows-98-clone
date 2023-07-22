@@ -1,0 +1,6 @@
+#toolbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    gap: 2px;
+}

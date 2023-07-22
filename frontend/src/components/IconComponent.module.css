@@ -1,0 +1,35 @@
+.buttoner {
+    border: none;
+    cursor: pointer;
+    appearance: none;
+    background-color: inherit;
+    height: 7.5vh;
+    width: 7.5vh;
+  };
+  img{
+    height: 7.5vh;
+    width: 7.5vh;
+  };
+  .wrapper{
+    position: relative;
+  };
+  
+  .WindowStyle{
+    height: "50vh";
+    margin-left: "25vh";
+    margin-top: "10vh";
+    display: "flex";
+    justify-content: "center";
+    align-items: "center"
+  };
+  
+  .IconContainer{
+    height: "20vh";
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 5vh;
+    margin: '2vh';
+    gap: '2vh';
+    justify-content: 'space-between';
+  };
